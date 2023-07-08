@@ -25,7 +25,7 @@ class TestAddFunction(unittest.TestCase):
 
 # ...
 # ----------------------------------------------------------------------
-# Run 3 tests in 0.001s
+# Ran 3 tests in 0.001s
 
 # OK
 
